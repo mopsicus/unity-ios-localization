@@ -1,0 +1,5 @@
+"CFBundleDisplayName" = "Game";
+"NSCameraUsageDescription" = "Game need to access the camera in order to capture photo for user's avatar.";
+"NSPhotoLibraryAddUsageDescription" = "Game need to access the library in order to select photo for user's avatar.";
+"NSPhotoLibraryUsageDescription" = "Game need to access the library in order to select photo for user's avatar.";
+"NSUserTrackingUsageDescription" = "Game need to access the IDFA in order to improve personalized advertising of game, log player's behaviour and catch critical bugs.";
